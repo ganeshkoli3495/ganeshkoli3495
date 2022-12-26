@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@koliganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@koliganesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ganesh-koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-koli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ganesh-koli-9a92a2a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-koli" height="30" width="40" /></a>
 <a href="https://fb.com/ganesh.koli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganesh.koli1" height="30" width="40" /></a>
 <a href="https://instagram.com/ganesh_koli_3495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_koli_3495" height="30" width="40" /></a>
 <a href="https://discord.gg/gckoli3495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gckoli3495" height="30" width="40" /></a>
